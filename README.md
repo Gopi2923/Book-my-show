@@ -1,4 +1,5 @@
-# Hackathon-2
+# Book-my-show
+
 Display UI with movie select, screen, seats, legend & seat info
 
 User can select a movie/price
